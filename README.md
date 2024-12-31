@@ -14,4 +14,4 @@
   - Run `vercel dev` to start the development server
 4. Seed the database by opening `/seed` in your browser. This will create a user account that you can use to log in to the dashboard
 5. Complete the interview task
-6. Send us the link to your GitHub repo and the link to your deployed app (don't forget to set to public both the GitHub repo and the Vercel deployment)
+6. Send us the link to your GitHub repo and the link to your deployed app (don't forget to set to public both the **GitHub repo** and the **Vercel deployment**, and check if the **environment variables** are not tied to loaclhost)
