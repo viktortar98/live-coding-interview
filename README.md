@@ -1,6 +1,6 @@
 ## TRAVLRD Interview Project
 
-1. Fork the repository or use it as a template or clone with `pnpx degit https://github.com/travlrd-com/final-example`.
+1. Fork the repository or use it as a template or clone with `pnpx degit https://github.com/travlrd-com/final-example.git`.
 2. Run `pnpm install`
 3. Follow the steps outlined here: https://nextjs.org/learn/dashboard-app/setting-up-your-database#create-a-postgres-database
   - Initialize a new repository and publish it to Github (also make sure to set the repo to public)
