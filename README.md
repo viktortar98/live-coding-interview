@@ -1,6 +1,10 @@
 ## TRAVLRD Interview Project
 
-1. Fork the repository or use it as a template or clone with `pnpx degit https://github.com/travlrd-com/final-example.git`.
+Note: This repository is based on the finished state of the `nextjs.org/learn` course.
+
+Setup guide:
+
+1. Fork this repository or use it as a template or clone with `pnpx degit https://github.com/travlrd-com/final-example.git`.
 2. Run `pnpm install`
 3. Follow the steps outlined here: https://nextjs.org/learn/dashboard-app/setting-up-your-database
    - Initialize a new repository and publish it to Github (also make sure to set the repo to public)
@@ -16,4 +20,4 @@
 5. Complete the interview task
 6. Send us the link to your GitHub repo and the link to your deployed app (don't forget to set to public both the **GitHub repo** and the **Vercel deployment**, and make sure the **environment variables** are not tied to localhost)
 
-We will test your assessment from the deployment link that you provide, so make sure every feature is working on the deployed version as well.
+Your assessment will be tested via the Vercel deployment link that you'll send us, so please test your app thoroughly via the deployment as well.
