@@ -1,4 +1,4 @@
-## TRAVLRD Interview Project
+## TRAVLRD Live Coding Repository
 
 Note: This repository is based on the finished state of the `nextjs.org/learn` course.
 
@@ -17,7 +17,3 @@ Setup guide:
    - Run `vercel env pull .env.development.local` to make the latest environment variables available to your project locally
    - Run `vercel dev` to start the development server
 4. Seed the database by opening `/seed` in your browser. This will create a user account that you can use to log in to the dashboard
-5. Complete the interview task
-6. Send us the link to your GitHub repo and the link to your deployed app (don't forget to set to public both the **GitHub repo** and the **Vercel deployment**, and make sure the **environment variables** are not tied to localhost)
-
-Your assessment will be tested via the Vercel deployment link that you'll send us, so please test your app thoroughly via the deployment as well.
